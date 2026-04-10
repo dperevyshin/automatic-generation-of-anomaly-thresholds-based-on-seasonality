@@ -5,8 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Репозиторий содержит материалы, код и результаты экспериментов в рамках магистерской диссертации.
-
 ## 🎓 Тема работы
 **«Автоматическая выработка порогов аномалий с учётом сезонности»**
 
